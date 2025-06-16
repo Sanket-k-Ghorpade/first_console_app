@@ -52,7 +52,9 @@ namespace first_console_app
             //factorial.Run();
             //CountWords.Run();
             //PrimeNumber.Run();
-            Patterns.Run();
+            //Patterns.Run();
+            //CurrencyCalculator.Run();
+            //PalindromeNumChecker.Run();
         }
     }
 }
