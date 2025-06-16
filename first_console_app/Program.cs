@@ -55,6 +55,8 @@ namespace first_console_app
             //Patterns.Run();
             //CurrencyCalculator.Run();
             //PalindromeNumChecker.Run();
+            //ReverseNumber.Run();
+            //ArmstrongNumber.Run();
         }
     }
 }
