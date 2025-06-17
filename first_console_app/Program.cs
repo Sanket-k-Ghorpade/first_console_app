@@ -57,6 +57,8 @@ namespace first_console_app
             //PalindromeNumChecker.Run();
             //ReverseNumber.Run();
             //ArmstrongNumber.Run();
+            //FibonacciSeries.Run();
+
         }
     }
 }
