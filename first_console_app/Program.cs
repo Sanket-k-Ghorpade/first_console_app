@@ -19,6 +19,7 @@ namespace first_console_app
             //CountSpaces.Run();
             //FeesDiscountCalculator.Run();
             //NumberGuesserGame.Run();
+            //StringManipulation.Run();
 
 
         }
