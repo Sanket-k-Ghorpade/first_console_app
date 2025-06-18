@@ -18,6 +18,8 @@ namespace first_console_app
             //FibonacciSeries.Run();
             //CountSpaces.Run();
             //FeesDiscountCalculator.Run();
+            //NumberGuesserGame.Run();
+
 
         }
     }
