@@ -17,6 +17,7 @@ namespace first_console_app
             //ArmstrongNumber.Run();
             //FibonacciSeries.Run();
             //CountSpaces.Run();
+            //FeesDiscountCalculator.Run();
 
         }
     }
