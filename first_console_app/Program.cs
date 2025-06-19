@@ -19,7 +19,13 @@ namespace first_console_app
             //CountSpaces.Run();
             //FeesDiscountCalculator.Run();
             //NumberGuesserGame.Run();
-            //StringManipulation.Run();
+            // String Manipulation 
+            if (args.Length == 0)
+            {
+                Console.WriteLine("Please provide a string like: Sachin,Aurionpro,Mumbai");
+                return;
+            }
+            StringManipulation.Run(args[0]);
 
 
         }
