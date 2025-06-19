@@ -20,12 +20,12 @@ namespace first_console_app
             //FeesDiscountCalculator.Run();
             //NumberGuesserGame.Run();
             // String Manipulation 
-            if (args.Length == 0)
-            {
-                Console.WriteLine("Please provide a string like: Sachin,Aurionpro,Mumbai");
-                return;
-            }
-            StringManipulation.Run(args[0]);
+            // if (args.Length == 0)
+            // {
+            //     Console.WriteLine("Please provide a string like: Sachin,Aurionpro,Mumbai");
+            //     return;
+            // }
+            // StringManipulation.Run(args[0]);
 
 
         }
