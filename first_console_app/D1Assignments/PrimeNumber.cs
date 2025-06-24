@@ -8,6 +8,7 @@ namespace first_console_app.D1Assignments
 {
     public class PrimeNumber
     {
+        // I am calling this Run method from Program.cs which is my main method
         public static void Run()
         {
             Console.WriteLine("Enter your number to check if its prime or not");
